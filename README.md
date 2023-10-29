@@ -1,5 +1,5 @@
-# 인공지능 오목 게임 omokku
-인공지능 오목  게임을 천천히 만들어 봅시다.
+Added basic AI code to prexisting gomoku code by yurokji
 
-Yurok Ji
+Used alpha beta pruning algorthims 
 
+Super underdeveloped, going to spend more time on it after midterms end :)
